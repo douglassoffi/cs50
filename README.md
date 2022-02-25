@@ -28,4 +28,4 @@ Mais códigos serão adicionados durante a realização do curso.
 
 #### LAB 2
 
--scrabble.c
+- scrabble.c
