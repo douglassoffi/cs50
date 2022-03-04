@@ -1,0 +1,23 @@
+(tested on *5000.txt)
+
+sorted:
+
+sort 1 = 0.014s
+sort 2 = 0.011s
+sort 3 = 0.094s
+
+reversed: 
+
+sort1 = 0.126s
+sort2 = 0.017s
+sort3 = 0.085s
+
+random:
+
+sort1 = 0.115s
+sort2 = 0.013s
+sort3 = 0.083s
+
+sort1 = bublle sort
+sort2 = murge sort
+sort3 = selection sort
